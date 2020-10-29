@@ -1,4 +1,4 @@
-# Atm_Console
+# Atm_Console_Python
 
 Python Mini Project
 
